@@ -17,7 +17,7 @@ team 'BADM\_074'.**
 
 > **[Topics]{.underline}**
 >
-> 1**.** Introduction 3
+> 1\. Introduction 3
 >
 > 2\. Data Preparation 4
 >
