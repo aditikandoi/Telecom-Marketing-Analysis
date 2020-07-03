@@ -234,9 +234,8 @@ Characteristic, Area Under the Curve) and the results are as follows:
 ROC plots :
 
 ![](./myMediaFolder/media/image13.png)
-{width="3.2911439195100614in" height="2.244792213473316in"}
 ![](./myMediaFolder/media/image6.png)
-{width="2.8906255468066493in" height="2.0865430883639546in"}
+
 
 Random Forest Naive Bayes
 
